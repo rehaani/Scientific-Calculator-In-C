@@ -45,7 +45,11 @@ Perform the desired mathematical operations.
 
 **How to Compile and Run**
 Save the code in a file named scientific_calculator.c.
+
 Open a terminal or command prompt.
+
 Navigate to the directory where the file is saved.
+
 Compile the program using a C compiler, e.g., gcc scientific_calculator.c -o calculator.
+
 Run the compiled program using ./calculator.
